@@ -17,7 +17,6 @@ import com.google.android.gms.common.SignInButton;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.common.api.Status;
-import com.google.firebase.auth.FirebaseAuth;
 
 public class SignInActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener, View.OnClickListener {
 
@@ -25,7 +24,6 @@ public class SignInActivity extends AppCompatActivity implements GoogleApiClient
     private Button signOutButton;
     private SignInButton signInButton;
 
-    private FirebaseAuth firebaseAuth;
     private GoogleApiClient googleApiClient;
 
     private static final int RC_SIGN_IN = 9001;
