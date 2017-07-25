@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "46089097054",
+    "firebase_url": "https://signin-cb16a.firebaseio.com",
+    "project_id": "signin-cb16a",
+    "storage_bucket": "signin-cb16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46089097054:android:da44aa73d17f5957",
+        "android_client_info": {
+          "package_name": "com.spells.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46089097054-s6srkhod91k0c4qlv0ee212hof583iog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spells.signin",
+            "certificate_hash": "689ab5aa4a276c651bf6a430969b97a000402518"
+          }
+        },
+        {
+          "client_id": "46089097054-js4aacgfutrr3n8m63c8s6nuasn0llho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtRWpxHSkzRijSkh6mZ9oDhEnhm7adD1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46089097054-js4aacgfutrr3n8m63c8s6nuasn0llho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
