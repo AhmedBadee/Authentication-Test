@@ -4,4 +4,7 @@
     <string name="signed_in_fmt">Signed in as: %s</string>
     <string name="sign_out">Sign out</string>
     <string name="signed_out">Signed Out</string>
+
+    <string name="facebook_app_id">160505494522779</string>
+    <string name="fb_login_protocol_scheme">fb160505494522779</string>
 </resources>

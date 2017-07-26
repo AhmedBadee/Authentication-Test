@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SignIn.iml" filepath="$PROJECT_DIR$/SignIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Authentication-Test.iml" filepath="$PROJECT_DIR$/Authentication-Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

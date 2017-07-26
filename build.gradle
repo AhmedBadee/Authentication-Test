@@ -3,6 +3,8 @@
 buildscript {
     repositories {
         jcenter()
+        // TODO 1: add the following line
+        mavenCentral()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.3.3'
